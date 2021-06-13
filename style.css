@@ -1,0 +1,474 @@
+.header{
+    background: lightslategray;
+    width: 100%;
+    height: 50px;
+    padding-bottom: 7px;
+    padding-top: 3px;
+}
+body{
+    margin: 0;
+}
+.logo{
+    width: 100%;
+    height: 150px;
+    background: #fff;
+}
+.placementcell{
+    width: 100%;
+    height: 400px;
+    padding-top: 0px;
+    background-image: linear-gradient(#fff);
+}
+.font1{
+    color: #e63e3e;
+    font-size: 70px;
+    font-weight: 700;
+    text-decoration: none;
+    font-family: calibri;
+    font-weight: bold;
+    
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.image{
+    width: 100%;
+  margin-top: 50px;
+}
+.overview{
+    background: #f5f2f2;
+    width: 100%;
+    height: 50px;
+
+}
+.icon2{
+    width: 100px;
+    height: 100px;
+    margin-left: 900px;
+    margin-top: 10px;
+}
+.font2{
+    margin-left: 565px;
+    font-family: sans-serif;
+    font-weight: 650;
+    font-size: 35px;
+    margin-bottom: 30px;
+    color: lightslategray;
+}
+.smallborder{
+    background-color: lightslategray;
+    width: 100%;
+    height: 200px;
+    margin-top: 400px;
+}
+.ov{
+    font-size: 40px;
+    font-family:"calibri";
+    color: #fff;
+    margin-left: 50px;
+    font-weight: 800;
+}
+.middle{
+    width: 100%;
+    height: 900px;
+    background-image: linear-gradient(#fff,lightslategray);
+}
+.history{
+    font-family:"calibri";
+    font-weight: 700;
+    margin-top: 20px;
+    font-size: 30px;
+    color: aliceblue;
+}
+.strap{
+    font-family: "calibri";
+    font-weight: bold;
+    font-size: 20px;
+    margin-left:160px;
+    text-decoration: none;
+   background-blend-mode: darken;
+    outline: none;
+    color: dimgrey;
+    text-align: center;
+    color: aliceblue;
+    
+}
+.strapd{
+    width: 100%;
+ height: 45px;
+    background:#fff;
+    margin-top: 70px;
+    background-color: lightslategray;
+}
+.strap:hover{
+    color: #e63e3e; 
+}
+.sm{
+    margin-right: 30px;
+    margin-top: 10px;
+    float: right;
+    
+}
+.topfont{
+font-family: Verdana, Arial, Helvetica, Geneva, sans-serif;
+ font-size: 15px;
+
+z-index: 1;  
+    color: white;
+    margin-left: 20px;
+    font-weight: 700;
+    font-variant: small-caps
+}
+.major{
+    width: 100%;
+    height: 3320px;
+     background-image: linear-gradient(#fff,lightslategray);
+}
+
+.mdl{
+    width: 100%;
+    height: 1000px;
+    background-image: linear-gradient(lightslategray,#fff);
+    
+}
+.vision{
+    width: 50%;
+    height: 00px;
+    background-image: linear-gradient(#fff,lightslategray);
+    border: 0;
+    
+}
+.vsn{
+    color:white;
+    font-family:"calibri"; 
+    font-size: 30px;
+    margin-top: -100px;
+}
+.divvision{
+    width: 100%;
+    height: 40px;
+    margin-top: 100px;
+    background-color: #fff;
+}
+.v1{
+    font-family: calibri;
+    color: lightslategray;
+    font-size: 30px;
+    margin-left: 80px;
+    font-weight: bold;
+}
+.pv{
+     font-family: calibri;
+    color: #404040;
+    font-size: 20px;
+    margin-left: 20px;
+    font-weight: bold;
+}
+.divmission{
+    width: 100%;
+    height: 40px;
+    margin-top: 100px;
+    background-color: #fff;;
+    margin-left: 1000px;
+        margin-top: 250px;
+}
+.m1{
+    font-family: calibri;
+    color: lightslategray;
+    font-size: 30px;
+    margin-left: 80px;
+    font-weight: bold;
+}
+.pm{
+     font-family: calibri;
+    color: #5d5d5f;;
+    font-size: 20px;
+    margin-left: 20px;
+    font-weight: bold;
+}
+.img360{
+    margin-top: 280px;
+    margin-left: 50px;
+    border: none;
+    
+}
+.aboutcell{
+    font-family: calibri;
+    color:lightslategray;
+    margin-left: 1220px;
+    margin-top: -330px;
+    width: 30%;
+    font-size: 30px;
+    font-weight: bold;
+}
+.aboutcellpara{
+    width: 45%;
+    margin-left: 900px;
+    font-size: 19px;
+    margin-top: -20px
+}
+.placementofficer{
+    width: 52%;
+    height: 435px;
+    background-color: aliceblue;
+      margin-top: 243px;
+    margin-left: 950px;
+    margin-top: -2px;
+}
+.pfimg{
+    margin-left: 70px;
+    margin-top: 100px;
+}
+.shortdiv{
+   width: 100%;
+    height: 100px;
+    margin-top: 217px;
+    background-color: aliceblue;
+}
+.smallpftag{
+  font-family: calibri;
+    color: lightslategray;
+    font-weight: bold;
+    margin-left: 111px;
+    margin-top: 66px;
+    font-size: 58px;
+    padding-top: 11px;
+}
+.lastyeardiv{
+       width: 100%;
+    height: 70px;
+    margin-top: 152px;
+    background-color: lightslategray;
+    
+}
+.lastyearphh1{
+      font-size: 40px;
+    font-family: calibri;
+    font-weight: bold;
+    margin-left: 108px;
+    padding-top: 10px;
+    color: mintcream;
+}
+.company{
+      background-color: white;
+    width: 100%;
+    height: 50px;
+    padding-top: 464px;
+    margin-top: 130px;
+}
+.comh1{
+   color: #ff0000d9;
+    font-size: 60px;
+    font-family: calibri;
+    margin-top: -270px;
+    margin-left: 21px;
+    font-weight: bold;
+    width: 30%;
+}
+.info{
+     margin-left: 7px;
+    margin-top: -14px;
+}
+.rakon{
+    margin-left: 53px;
+    margin-top: -100px;
+}
+.tata{
+    margin-left: 53px;
+    margin-top: 1px;
+}
+.saranga{
+    margin-left: 856px;
+    margin-bottom: 0px;
+}
+.sdiv{
+    width: 30%;
+    margin-top: -184px;
+}
+.divimg2{
+        margin-left: 736px;
+    margin-top: -170px;
+    width: 40%;
+}
+.margin1{
+ background-color: lightslategray;
+    width: 15%;
+    height: 514px;
+    margin-left: 1683px;
+    margin-top: -478px;
+}
+.ac1{
+    color: black;
+    font-size: 30px;
+    font-family: calibri;
+    margin-left: 48px;
+    align-self: center;
+    text-decoration: none;
+    margin-left: 50px;
+    margin-top: 1px;
+    
+}
+.ac2{
+    color: black;
+    font-size: 30px;
+    font-family: calibri;
+    margin-left: 48px;
+    align-self: center;
+    text-decoration: none;
+    margin-left: 320px;
+    margin-top: 1px;
+    
+}
+.ac3{
+    color: black;
+    font-size: 30px;
+    font-family: calibri;
+    margin-left: 48px;
+    align-self: center;
+    text-decoration: none;
+    margin-left: 570px;
+    margin-top: 1px;
+    
+}
+.ac4{
+    color: black;
+    font-size: 30px;
+    font-family: calibri;
+    margin-left: 48px;
+    align-self: center;
+    text-decoration: none;
+    margin-left: 904px;
+    margin-top: 1px;
+}
+.info1{
+      width: 20%;
+    margin-left: 0px;
+    margin-top: 0px;
+    }  
+.ra{
+        width: 20%;
+    margin-left: 0px;
+    margin-top: 0px; 
+
+}
+.ta{
+     width: 20%;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+.sa{
+     width: 20%;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+.list{
+  font-family:  
+    font-size: 60px;
+    color: white;
+    margin-left: 59px;
+}
+.ac:hover{
+    color: red;
+}
+.studentp{
+        width: 100%;
+    height: 840px;
+    background-color: white;
+    margin-top: 265px;
+}
+.studentH1{
+   color: #ff0000d9;
+ font-family: calibri;
+    font-size: 60px;
+    margin-left: 57px;
+    width: 30%;
+    margin-top: 160px;
+}
+.student1div{
+   background-color:  #FFF;
+    width: 15%;
+    height: 280px;
+    margin-left: 673px;
+    margin-top: -206px;
+}
+.student1div2{
+   background-color:  #FFF;
+    width: 15%;
+    height: 280px;
+        margin-left: 1065px;
+    margin-top: -278px;
+}
+.student1div3{
+   background-color:  #FFF;
+    width: 15%;
+    height: 280px;
+    margin-left: 1445px;
+    margin-top: -275px;
+}
+.student1div4{
+   background-color: #FFF;
+    width: 15%;
+    height: 280px;
+margin-left: 673px;
+margin-top: 110px
+}
+.sp{
+    font-size: 24px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: rgb(0 0 0 / 70%);
+    margin-left: 9px;
+}
+.pc{
+     font-size: 14px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: rgb(210 126 23 / 88%);
+    margin-left: 14px;
+    margin-top: -15px;
+}
+.footer{
+       width: 100%;
+    height: 320px;
+    background-color: #3B424D;
+}
+.lastfooter{
+    background-color: #282a2b;
+    width: 100%;
+    height: 100px;
+}
+.lastp{
+        font-family: sans-serif;
+    color: white;
+    padding-top: 50px;
+        margin-top: 0px;
+    font-size: 12px;
+    font-weight: bold;
+    margin-left: 40px;
+}
+.placementofficerpara{
+     width: 45%;
+    margin-left: 425px;
+    font-size: 19px;
+    margin-top: -315px;
+}
+.poff{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    width: 20%;
+    margin-left: 102px;
+    margin-top: 8px;
+}
+.footer2{
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+     margin-left: 50px;
+    margin-top: 0px;
+    width: 40%;
+}
+.lp{
+    margin-top: 0px;
+    width: 40%;
+}
